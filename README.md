@@ -13,11 +13,11 @@
 
 *I build AI that doesn't just respond — it reasons, adapts, and delivers in the real world.*
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-FF6B2C?style=for-the-badge&logoColor=white)](https://portfolio-nine-snowy-aqhqcvbvwc.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-FF6B2C?style=for-the-badge&logoColor=white)](https://akashgpatil.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-g-patil-9b55632a5)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashcodes23)
 [![Email](https://img.shields.io/badge/EMAIL-HIRE_ME-FF6B2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashgpatil23.05@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-DOWNLOAD-4A9EFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://portfolio-nine-snowy-aqhqcvbvwc.vercel.app/resume.pdf)
+[![Resume](https://img.shields.io/badge/RESUME-DOWNLOAD-4A9EFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://akashgpatil.vercel.app/resume.pdf)
 
 </div>
 
@@ -164,7 +164,7 @@ Framer Motion + HTML5 Canvas       →  60fps smooth scrollytelling
 Built in 1 day                     →  shipped is better than perfect
 ```
 
-**[→ Experience it live](https://portfolio-nine-snowy-aqhqcvbvwc.vercel.app)**
+**[→ Experience it live](https://akashgpatil.vercel.app)**
 
 ---
 
@@ -174,7 +174,7 @@ I'm actively looking for **AI/ML internships**, **research collaborations**, and
 ```
 Email     →  akashgpatil23.05@gmail.com
 LinkedIn  →  linkedin.com/in/akash-g-patil-9b55632a5
-Portfolio →  portfolio-nine-snowy-aqhqcvbvwc.vercel.app
+Portfolio →  akashgpatil.vercel.app
 Location  →  Bengaluru, Karnataka, India
 ```
 
