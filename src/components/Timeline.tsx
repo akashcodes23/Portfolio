@@ -22,7 +22,7 @@ const events = [
     color: ACCENT2,
   },
   {
-    year: '2022',
+    year: '2023',
     title: 'Started B.Tech — AI/ML',
     org: 'JSSATE Bengaluru',
     desc: 'Joined Department of Computer Science & Engineering with specialization in Artificial Intelligence and Machine Learning.',
