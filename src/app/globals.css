@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    background-color: #000;
+    color: #fff;
+    scroll-behavior: smooth;
+    overflow-x: clip; /* clip instead of hidden keeps 'position: sticky' working! */
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  [data-scrolly] { height: 400vh !important; }
+}
+@media (max-width: 480px) {
+  [data-scrolly] { height: 300vh !important; }
+}
