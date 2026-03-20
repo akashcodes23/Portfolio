@@ -24,6 +24,8 @@ export default function Footer() {
           {[
             { label: 'GitHub', href: 'https://github.com/akashcodes23' },
             { label: 'LinkedIn', href: 'https://www.linkedin.com/in/akash-g-patil-9b55632a5' },
+            { label: 'Email', href: 'mailto:akashgpatil23.05@gmail.com' },
+
           ].map(s => (
             <a key={s.label} href={s.href} target="_blank" rel="noopener noreferrer"
               style={{ fontSize: 11, letterSpacing: '0.2em', color: 'rgba(255,255,255,0.35)', textDecoration: 'none', textTransform: 'uppercase' }}>

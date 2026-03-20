@@ -4,6 +4,7 @@ import dynamic from 'next/dynamic';
 import Navbar        from "@/components/Navbar";
 import ScrollyCanvas from "@/components/ScrollyCanvas";
 import Marquee       from "@/components/Marquee";
+import About         from "@/components/About";
 import Projects      from "@/components/Projects";
 import Timeline      from "@/components/Timeline";
 import Research      from "@/components/Research";
@@ -20,6 +21,7 @@ export default function Home() {
       <Overlay />
       <ScrollyCanvas />
       <Marquee />
+      <About />
       <div id="projects"><Projects /></div>
       <Timeline />
       <Research />
