@@ -1,6 +1,6 @@
 'use client';
 import React, { useEffect, useRef, useState } from 'react';
-const ACCENT  = '#FF6B2C';
+const ACCENT = '#FF6B2C';
 const ACCENT2 = '#4A9EFF';
 
 export default function About() {
@@ -43,9 +43,9 @@ export default function About() {
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16, opacity: visible ? 1 : 0, transform: visible ? 'translateY(0)' : 'translateY(24px)', transition: 'all 0.6s ease 0.15s' }}>
             {[
               { val: '9.15', label: 'CGPA', sub: 'Top of class', color: ACCENT },
-              { val: '8+',   label: 'Hackathons', sub: 'Competed & won', color: '#22c55e' },
-              { val: '4+',   label: 'Projects', sub: 'Shipped to prod', color: ACCENT2 },
-              { val: '2025', label: 'Graduating', sub: 'Available now', color: ACCENT },
+              { val: '8+', label: 'Hackathons', sub: 'Competed & won', color: '#22c55e' },
+              { val: '5+', label: 'Projects', sub: 'Shipped to prod', color: ACCENT2 },
+              { val: '2027', label: 'Graduating', sub: 'Available for Internships and Opportunities', color: ACCENT },
             ].map((s, i) => (
               <div key={i} style={{ padding: '20px', border: '1px solid rgba(255,255,255,0.06)', borderRadius: 4, background: 'rgba(255,255,255,0.02)' }}>
                 <div style={{ fontSize: 'clamp(24px, 3.5vw, 36px)', fontWeight: 700, color: s.color, fontFamily: 'monospace', letterSpacing: '-0.02em', lineHeight: 1 }}>{s.val}</div>
